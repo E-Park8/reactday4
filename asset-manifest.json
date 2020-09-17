@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/reactday4/static/js/main.295cf57a.chunk.js",
+    "main.js.map": "/reactday4/static/js/main.295cf57a.chunk.js.map",
+    "runtime-main.js": "/reactday4/static/js/runtime-main.3aa92cfb.js",
+    "runtime-main.js.map": "/reactday4/static/js/runtime-main.3aa92cfb.js.map",
+    "static/js/2.f2775c0b.chunk.js": "/reactday4/static/js/2.f2775c0b.chunk.js",
+    "static/js/2.f2775c0b.chunk.js.map": "/reactday4/static/js/2.f2775c0b.chunk.js.map",
+    "index.html": "/reactday4/index.html",
+    "precache-manifest.75c88f55c982f7937d9b4c517bb7df49.js": "/reactday4/precache-manifest.75c88f55c982f7937d9b4c517bb7df49.js",
+    "service-worker.js": "/reactday4/service-worker.js",
+    "static/js/2.f2775c0b.chunk.js.LICENSE.txt": "/reactday4/static/js/2.f2775c0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3aa92cfb.js",
+    "static/js/2.f2775c0b.chunk.js",
+    "static/js/main.295cf57a.chunk.js"
+  ]
+}
